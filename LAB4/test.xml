@@ -1,0 +1,33 @@
+ <?xml version="1.0"?>
+<Peoples>
+  <People>
+    <Name>Иван</Name>
+    <Age>30</Age>
+    <Profession>Учитель</Profession>
+    <City>Санкт-Петербург</City>
+  </People>
+  <People>
+    <Name>Анна</Name>
+    <Age>25</Age>
+    <Profession>Инженер</Profession>
+    <City>Москва</City>
+  </People>
+  <People>
+    <Name>Максим</Name>
+    <Age>27</Age>
+    <Profession>Программист</Profession>
+    <City>Екатеринбург</City>
+  </People>
+  <People>
+    <Name>Ольга</Name>
+    <Age>26</Age>
+    <Profession>Дизайнер</Profession>
+    <City>Краснодар</City>
+  </People>
+  <People>
+    <Name>Елена</Name>
+    <Age>28</Age>
+    <Profession>Врач</Profession>
+    <City>Новосибирск</City>
+  </People>
+</Peoples>
