@@ -1,0 +1,31 @@
+Параметры дистрибутива:
+	1. Версия ядра:
+	5.15.0-107-generic
+	
+	2.Оболочка пользователя (shell):
+	GNU Bash 5.1.16
+	
+	3. Графическая оболочка:
+	GNOME 42.9
+	
+	4. Система инициализации:
+	systemd 249.11-0ubuntu3.12
+	
+	5. Параметры ядра:
+	BOOT_IMAGE=/boot/vmlinuz-5.15.0-107-generic root=UUID=... ro quiet splash vt.handoff=7
+	
+Процессы и службы:
+	NetworkManager.service         # Управление сетью
+	cron.service                   # Планировщик задач
+	dbus.service                   # Системная шина
+	systemd-logind.service         # Управление сессиями
+	apache2.service
+	...
+	
+Содержимое файла system_info.txt:
+	Linux Distribution: Ubuntu 22.04.4 LTS (Jammy Jellyfish)
+	Kernel Version: 5.15.0-107-generic
+	User Shell: /bin/bash (GNU Bash 5.1.16)
+	Desktop Environment: GNOME 42.9
+	Init System: systemd 249.11-0ubuntu3.12
+	Kernel Parameters: BOOT_IMAGE=/boot/vmlinuz-5.15.0-107-generic root=UUID=... ro quiet splash vt.handoff=7
